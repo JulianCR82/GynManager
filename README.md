@@ -1,2 +1,2 @@
-# GynManager
+# GymManager
 Aplicacion programacion 2
